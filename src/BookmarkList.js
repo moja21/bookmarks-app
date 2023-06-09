@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import React, {  useState } from 'react';
 
 const apiUrl = 'http://localhost:80/Project/bookmarking-app-moja21/api';
 
